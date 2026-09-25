@@ -82,9 +82,9 @@ Atualmente, estou construindo minha experiência através de projetos práticos 
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=eduufelipe14&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=eduufelipe14&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduufelipe14&layout=compact&langs_count=8&theme=tokyonight"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=eduufelipe14&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
 
 </div>
 
