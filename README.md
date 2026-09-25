@@ -4,7 +4,7 @@
 
 ### 💻 Estudante de Ciência da Computação | Desenvolvedor em formação
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:00C6FF&height=180&section=header&text=Bem%20-%20Vindo%20ao%20meu%20GitHub!&fontSize=35&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:00C6FF&height=180&section=header&text=Bem-vindo%20Vindo%20ao%20meu%20GitHub!&fontSize=35&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%"/>
 
 </div>
 
